@@ -1,0 +1,11 @@
+# raw source files (the site uses the optimised copies in audio/, images/, video/)
+/start.mp4
+/intro.mp4
+/food.mp4
+/final.mp4
+/music.mp4
+/start_audio.mp3
+/kalisham.webp
+/pngtree-*.webp
+# claude.ai preview version of the page
+/invitation.html
